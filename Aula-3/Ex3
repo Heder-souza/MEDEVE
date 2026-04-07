@@ -1,0 +1,8 @@
+Data -> guarda os arquivos que contêm as informações
+do sistema, no caso os arrays que serão o banco de 
+dados simulado.
+
+includes -> guarda partes do código que são incluidos em
+muitas das paginas, e serve para evitar a sua repetição.
+
+pages -> é onde fica as paginas que o usuário acessa.
